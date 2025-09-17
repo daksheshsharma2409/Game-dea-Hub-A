@@ -1,0 +1,30 @@
+# Game Title
+Relicbound
+
+## Concept
+An open-world RPG with strong character customization and a huge map split into different regions — deserts, snowy areas, plains, mountains, and more. Each region has its own animals, enemies, and unique bosses. The game mixes tough combat with stealth options, giving players different ways to approach challenges.
+
+## Gameplay
+The main goal is to collect 5 relics hidden across the farthest corners of the map. Each one is protected by a boss fight. Just when the player is about to get the last relic, they lose all 4 collected ones and have to fight to recover them.
+
+As the story goes on, the player unlocks new weapons and gains special abilities from defeated bosses, making them stronger while keeping the fights tough.
+
+## Unique Features
+Very challenging, Souls-like combat.
+Gain powers from bosses you defeat.
+Different camera angles during boss fights to make them more intense.
+Stealth mechanics for players who prefer sneaky approaches.
+
+## Target Audience
+For ages 17+, mainly fans of Souls-like games and players who enjoy tough, skill-based RPGs.
+
+## Art Style & Theme
+A mix of wasteland and wild nature — ruined areas mixed with living, beautiful landscapes.
+
+## Inspiration
+Shadow of the Colossus for boss fights.
+Skyrim for exploration and open-world freedom.
+
+
+## Tools or Platforms (Optional)
+Unreal Engine 5
